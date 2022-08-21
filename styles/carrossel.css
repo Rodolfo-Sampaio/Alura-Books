@@ -133,5 +133,8 @@
         width: 60%;
         margin-left: 3em;
     }
+    .botões__ancora:active {
+        background-color: var(--azul);
+        }
 
 }
