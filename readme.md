@@ -15,7 +15,7 @@ Neste projeto com a metodologia "BEM" e orientação da Instrutora Monica Hillma
 
 ##  Explore o Alura Books! 👀
 
-Veja nosso site adaptável em 🚩[Alura Store](https://alura-books-red.vercel.app/) e experimente diferentes tamanhos de tela pressionando `F12` e usando o Toggle Device Toolbar `Ctrl + Shift + M`.
+Veja nosso site adaptável em 🚩[Alura Books](https://alura-books-red.vercel.app/) e experimente diferentes tamanhos de tela pressionando `F12` e usando o Toggle Device Toolbar `Ctrl + Shift + M`.
 
 
 
