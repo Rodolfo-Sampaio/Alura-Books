@@ -42,8 +42,8 @@ Veja nosso site adaptável em 🚩[Alura Books](https://alura-books-red.vercel.a
 [Monica Hillman](https://github.com/MonicaHillman)
 <br>
 <br>
-### E aí, ninja do código! 🚀 Valeu pela passada no meu Git. Se curtiu a vibe, bora trocar ideias! Dá um "__Follow__" que tô sempre por aqui. Até mais, e que a força do código esteja com você! 😎👩‍💻
+### E aí, ninja do código! 🚀 Valeu pela passada no meu Git. Se curtiu a vibe, bora trocar ideias! Dá um [`Follow`](https://github.com/Rodolfo-Sampaio) que tô sempre por aqui. Até mais, e que a força do código esteja com você! 😎👩‍💻
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e8bff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=footer"/>
 
 
